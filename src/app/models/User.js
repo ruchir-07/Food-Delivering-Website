@@ -1,3 +1,5 @@
+'use client';
+
 import bcrypt from 'bcrypt';
 import { model, models, Schema } from "mongoose";
 
